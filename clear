@@ -1,0 +1,17 @@
+[33mcommit bd8ff484acd65a9cdf8c871024e2b54b6b8591ef[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Juan Granados <felipegranados346@gmail.com>
+Date:   Mon Aug 7 15:59:32 2023 -0500
+
+    Agrega archivo test.txt
+
+[33mcommit d7d04a3b6c1cdccadddf71f72c1b71ca47a13db5[m
+Author: Juan Granados <felipegranados346@gmail.com>
+Date:   Mon Aug 7 15:51:42 2023 -0500
+
+    se escribe una segunda linea sobre README.md
+
+[33mcommit 9234ba528128f436c6a528e9dff91780189cd0ae[m
+Author: Juan Granados <felipegranados346@gmail.com>
+Date:   Mon Aug 7 15:28:59 2023 -0500
+
+    first commit
